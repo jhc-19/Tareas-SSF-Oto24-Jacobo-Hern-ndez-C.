@@ -12,7 +12,6 @@ Este método aproxima la pendiente de la función en cada nodo, proporcionando u
 Este análisis es clave para funciones parametrizadas, permitiendo obtener una representación precisa sin gastar recursos computacionales innecesarios.
 
 Algoritmos
-Con lo anterior en mente, se estudiará una función para distintos valores de parámetros con 
-𝜖
-0
-ϵ>0. Además, se analizará la derivada usando diferencias finitas y la integral de otra función mediante el método del trapecio y Gauss-Legendre, siguiendo el mismo procedimiento del ejercicio anterior.
+Con lo anterior en mente, se estudiará una función para distintos valores de parámetros con 𝜖>0. Además, se analizará la derivada usando diferencias finitas y la integral de otra función mediante el método del trapecio y Gauss-Legendre, siguiendo el mismo procedimiento del ejercicio anterior.
+
+Link: https://jupyter.org/try-jupyter/notebooks/index.html?path=Tarea+3+SSF.ipynb
